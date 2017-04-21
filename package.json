@@ -1,7 +1,8 @@
 {
   "name": "LaunchReport",
   "title": "LaunchReport",
-  "version": "1.0",
+  "version": "1.0.0",
+  "private": true,
   "homepage": "https://github.com/VIP-LES/VIP-LES.github.io",
   "author": "Cem Gokmen <cgokmen@gatech.edu>",
   "devDependencies": {
