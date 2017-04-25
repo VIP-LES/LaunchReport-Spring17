@@ -22,6 +22,19 @@ hr.light {
     border-color: white;
 }
 
+hr.full {
+    max-width: 66%;
+}
+
+hr.thin {
+    border-width: 1px;
+    border-color: fade(@theme-primary, 50%);
+}
+
+hr.thin.light {
+    border-color: fade(white, 50%);
+}
+
 a {
     .transition-all;
     color: @theme-primary;
